@@ -1,27 +1,31 @@
-# Sales Data Analysis
+# Sales Data Analysis Project
 
 ## Project Overview
-This project analyzes a sales dataset to identify trends, top performing regions, and product categories.
+This project analyzes a sales dataset to identify business insights such as regional sales performance, product demand, and monthly sales trends.
+
 
 ## Dataset
-The dataset contains sales transactions with the following fields:
-- Order ID
-- Date
-- Product
-- Category
-- Region
-- Sales Amount
+The dataset contains sales transaction records with the following fields:
+
+• Order ID  
+• Date  
+• Product  
+• Category  
+• Region  
+• Sales  
 
 ## Tools Used
-- SQL
-- Excel
-- Power BI
+• Microsoft Excel  
+• Pivot Tables  
+• Data Visualization (Charts)  
+• Dashboard Design  
 
-## Analysis Goals
-- Identify top performing regions
-- Analyze sales trends
-- Find best selling products
+## Key Insights
+• North region recorded the highest sales (~423K), while East had the lowest sales.
 
-## Future Work
-- Create SQL queries for deeper analysis
-- Build an interactive Power BI dashboard
+• Electronics category contributed the largest share of total revenue.
+
+• Backpack,Desk Chairs, Laptops, and smartphones were among the top-selling products.
+
+• Monthly sales remained relatively stable throughout the year with minor fluctuations.
+
